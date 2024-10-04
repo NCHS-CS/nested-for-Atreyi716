@@ -1,5 +1,13 @@
 public class App {
+    /*public static void mystery3() {
+        int foo = 3;
+        for (int number = 0; foo > number; number += 2) {
+            foo++;
+            System.out.println(foo + " " + number);
+        }
+    }*/
     public static void main(String[] args) {
+    //  mystery3();
         int Rows = 5;
 
         // Outer loop for rows
