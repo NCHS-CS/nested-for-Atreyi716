@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Challenge",
+            "request": "launch",
+            "mainClass": "Challenge",
+            "projectName": "nested-for-Atreyi716_16a0e80e"
+        },
+        {
+            "type": "java",
+            "name": "Nest",
+            "request": "launch",
+            "mainClass": "Nest",
+            "projectName": "nested-for-Atreyi716_16a0e80e"
+        },
+        {
+            "type": "java",
             "name": "App",
             "request": "launch",
             "mainClass": "App",
